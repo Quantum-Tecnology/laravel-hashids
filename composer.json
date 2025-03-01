@@ -15,16 +15,9 @@
     "require": {
         "php": "^8.2",
         "graham-campbell/manager": "^5.0",
-        "hashids/hashids": "^5.0",
-        "illuminate/contracts": "^12.0",
-        "illuminate/support": "^12.0"
+        "hashids/hashids": "^5.0"
     },
-    "require-dev": {
-        "graham-campbell/analyzer": "^5.0",
-        "graham-campbell/testbench": "^6.1",
-        "mockery/mockery": "^1.6.6",
-        "phpunit/phpunit": "^11.5"
-    },
+    "require-dev": {},
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
